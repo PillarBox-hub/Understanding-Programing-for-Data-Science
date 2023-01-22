@@ -9,4 +9,4 @@
 
 # Task Two
 
-1. Using external python libraries to carry out statistical and analytical tests on csv files. Statistical tests include carrying out hypothesis and determining relationships between some given variables.  
+1. Using external python libraries to carry out statistical and analytical tests on csv files. Statistical tests include carrying out hypothesis test and determining relationships between some given variables.  
